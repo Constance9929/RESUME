@@ -23,4 +23,18 @@ A name board with dimensions 1x1x10 requires `1+1+1+1 = 4` feet of duct tape to 
 
 Write a python program that reads from a file and then output the amount of foil and ribbon needed
 
+## Rubric
 
+|                       	| 0                                                       	| 1 	| 2     	| 3                                                      	| 4     	| 5                                                                                       	|
+|-----------------------	|---------------------------------------------------------	|---	|-------	|--------------------------------------------------------	|-------	|-----------------------------------------------------------------------------------------	|
+| *PEP 8 Violations*      	| 10+                                                     	| 9 	| 6 - 8 	| 3 - 5                                                  	| 1 - 2 	| 0                                                                                       	|
+| *Branching and Commits* 	| Everything is in master Commit messages non-descriptive 	|   	|       	|                                                        	|       	| Use of feature branches Commit messages tell story                                      	|
+| *Reading Input File*    	| Input File Not Read                                     	|   	|       	| Input File Defined in script and closed appropriately  	|       	| Input File Read From Command Line and Closed Appropriately                              	|
+| *Functions*             	| Code is a mess. All logic  happens in main              	|   	|       	| Main is mostly clean Some logic happens in main        	|       	| Main is clean, used for: reading file function calls for all else. Functions well named 	|
+| 
+
+*Error Checking*        	| None                                                    	|   	|       	|  Some error checking Code be better                    	|       	| Error checking covered where it is needed                                               	|
+| *Solution*              	| Did not get the correct outputs                         	|   	|       	| One output is correct                                  	|       	| Got the correct outputs                                                                 	|
+| *Logic*                 	|                                                         	|   	|       	|                                                        	|       	| Clear understanding of problem. Solution follows problem                                	|
+| *Docstrings*            	| What are docstrings                                     	|   	|       	| Some docstrings, some parameters some return types     	|       	| Doc string follow conventions                                                           	|
+|                       	|                                                         	|   	|       	|                                                        	|       	|                                                                                         	|
